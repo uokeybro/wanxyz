@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-  	{"src": "/(.*)","dest": "https://dev-ibra.pantheonsite.io/$1"}
+  	{"src": "/(.*)","dest": "https://dev-ibraa.pantheonsite.io/$1"}
   ]
 }
